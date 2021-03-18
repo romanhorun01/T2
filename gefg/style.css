@@ -1,0 +1,55 @@
+
+
+
+
+
+.blocks_a {
+    width: 600px;
+    height: 150px;
+    background: coral;
+}
+
+.blocks_b_c {
+    display: flex;
+}
+
+.blocks_b {
+    width: 450px;
+    height: 250px;
+    background: aqua;
+}
+
+.blocks_c {
+    width: 150px;
+    height: 250px;
+    background: darkcyan;
+}
+
+.blocks_two_container {
+    width: 1200px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blocks_b1 {
+    width: 450px;
+    height: 125px;
+    background: steelblue;
+}
+
+.blocks_c_d_e {
+    width: 450px;
+    height: 125px;
+    background: white;
+    display: flex;
+}
+
+.block_c1 {
+    width: 33.3333%;
+    height: 125px;
+    background: silver;
+    border: 1px solid red;
+}
+
